@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3,
+    "title": "Our amazing trip to Russia in 2024",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper bibendum dolor, et semper erat laoreet eget. Morbi cursus mollis augue quis iaculis. Phasellus ultricies laoreet finibus. Nullam nisi nulla, accumsan cursus cursus id, gravida ut dui. Duis vitae risus pellentesque, cursus augue vitae, pellentesque felis. Praesent blandit leo in est scelerisque, et faucibus diam iaculis. Nam sed iaculis mauris. Nam magna mauris, imperdiet at aliquet ac, placerat eu tortor.\r\n\r\nMorbi sem mi, eleifend non cursus vel, varius molestie tortor. Donec ut ullamcorper nisl, vitae mattis neque. Aenean non erat lorem. Vestibulum pulvinar vulputate augue a tempor. Pellentesque finibus eget quam feugiat finibus. Pellentesque in iaculis erat. Mauris lacinia dolor augue, non eleifend lectus feugiat nec. Duis fringilla turpis congue, laoreet felis ut, fringilla metus. Donec vulputate risus enim. Nunc magna nisi, gravida at luctus aliquet, ultricies a risus. Sed tellus libero, tempus sit amet tempus sed, elementum id nunc. Nunc feugiat feugiat tortor. Curabitur auctor vulputate turpis, non lobortis ex tempus at. Aenean rutrum ultrices lacus. Nullam sem ipsum, tempor in egestas eu, porttitor in mi. Duis aliquet sollicitudin nunc, vel sodales purus vulputate id.\r\n\r\nMauris iaculis neque et augue tempor sagittis. Aenean vestibulum feugiat leo, sit amet pretium urna ullamcorper efficitur. Fusce aliquam lobortis nulla. Aliquam ullamcorper id nisi quis pretium. In eget neque volutpat, congue lorem id, convallis neque. Fusce id libero mollis, sagittis ante nec, ornare neque. Mauris auctor dui commodo, rutrum mi blandit, dictum justo. Nam sit amet tempor quam.",
+    "date": "11 May 2024"
+  },
+  {
+    "id": 5,
+    "title": "Most common workout mistakes",
+    "message": "It's no news that regular exercise is one of the best things you can do for your health. It strengthens your muscles and bones, improves cardiovascular health, reduces stress, boosts memory and promotes better sleep, among other things. \r\n\r\nHowever, as exasperating as it might be to hear, simply sweating it out in the gym isn't enough. In order to reap all the health benefits of exercise, it's important that you do it right. \r\n\r\nHere, top fitness experts share the most common workout mistakes that might be sabotaging your fitness goals — and how you can fix them:\r\n\r\nSkipping warm-up. \"Think of your muscles and connective tissue like a rubber band.  If you pull a rubber band when it’s cold it can snap. But if you heat up that rubber, it’s far more elastic and flexible,\" says Jillian Michaels, wellness coach, entrepreneur and TV personality.\r\n\r\nNot having a game plan. Typically, \"starting a workout without a set plan for that particular day can lead to a lot of wasted time,\" notes Stokes. This is why it's crucial to set your intention — which includes listening to your body in order to make the most of the time you have. Moreover, \"not setting aside time for a workout and assuming you’ll just 'fit it in' at some point in the day accounts for many missed workouts. So, put it in your planner, just like you would a doctor's appointment,\" adds the fitness instructor.",
+    "date": "11 May 2024"
+  },
+  {
+    "id": 8,
+    "title": "How to find the best fruits?",
+    "message": "The ritual of shopping for fruit is a quintessential part of every grocery run. As you venture into the produce section, you are met with a vast spectrum of options. Neatly organized rows of apples, towering stacks of watermelons in hefty corrugated cardboard boxes, and the radiant range of citrus fruits are just a fraction of what's on offer. This vibrant tableau, however, has its complexities. Consider the humble apple with varieties lined up in a row can differ tremendously in taste and texture, with the ripeness of each fruit adding yet another layer of variability.\r\nNavigating this fruitful labyrinth requires a well-formulated strategy. The key to this challenge lies in understanding how to discern the perfectly ripe and ready-to-eat fruits from those underripe or overripe. Mastering this skill can be the difference between a disappointing culinary experience and the joy of savoring a piece of fruit at the peak of its flavor. \r\nInitially, you may feel like a novice navigating through a puzzling maze, but in no time, you'll be traversing the produce aisle with the ease and precision of a seasoned botanist. Each grocery run will morph into a rewarding expedition as you confidently select the crème de la crème of the crop, consistently bringing home fruit at its flavorful zenith and ready to be relished.\r\n\r\nRead More: https://www.tastingtable.com/1357151/simple-tricks-pick-best-fresh-fruit/",
+    "date": "18 May 2024"
+  },
+  {
+    "id": 9,
+    "title": "New title of my blog",
+    "message": "Here is my new content",
+    "date": "14 October 2024"
+  },
+  {
+    "id": 10,
+    "title": "How I was building this complicated blog website",
+    "message": "It took me a while to create this website... I had to go back and forth, learn more modules, practice and use chat GPT...\r\n\r\nI build first the design of the page, but then adding functionality was so challenging for me and I found I dont have enough knowledge for this yet, so I stopped, learned more about APIs and started to build the website again focusing more on functionality and only after that I added back the design. \r\n\r\nIt was a long and hard journey, but still I feel that I rely a lot on chat GPT, rather then finding the solution by myself. Also I dont have enough time to practice regularly, it is only couple of hours on weekend... wish I can have more time",
+    "date": "14 October 2024"
+  },
+  {
+    "id": 11,
+    "title": "What would you do if you are alone on the island?",
+    "message": "Nullam orci urna, semper vitae rhoncus eget, sagittis nec dui. Maecenas rhoncus cursus leo et molestie. Proin fringilla aliquam enim, in rhoncus nisl viverra a.\r\nMaecenas nec dignissim nunc. Etiam sapien erat, consequat ac sapien a, laoreet rutrum ex. Curabitur a diam consectetur, condimentum nisl id, viverra odio. Nunc finibus risus nec tempor faucibus. Proin et tincidunt nisi. Duis ut elit vitae felis convallis sagittis.",
+    "date": "19 October 2024"
+  },
+  {
+    "id": 12,
+    "title": "Try a new type of the blog",
+    "message": "Nullam orci urna, semper vitae rhoncus eget, sagittis nec dui. Maecenas rhoncus cursus leo et molestie. Proin fringilla aliquam enim, in rhoncus nisl viverra a.\r\n\r\nMorbi tincidunt orci enim, non dignissim eros hendrerit vel. Nam venenatis, eros quis ultrices aliquet, ante augue suscipit sem, quis rutrum odio augue in tortor. ",
+    "date": "19 October 2024"
+  },
+  {
+    "id": 13,
+    "title": "7 Helpful Tips to Keep a Home Clean and Tidy",
+    "message": "Best Tips for Cleanliness at Home\r\n1. Tidy up as you go, rather than putting it off.\r\n2. Make your bed every morning.\r\n3. Wipe down and dust surfaces on a regular basis.\r\n4. Vacuum or sweep heavy-traffic areas each day.\r\n5. Clean the kitchen each night before going to bed.\r\n6. Do laundry throughout the week to keep it from piling up.\r\n7. Donate things you don’t need anymore.",
+    "date": "19 October 2024"
+  }
+]

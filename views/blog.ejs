@@ -1,0 +1,41 @@
+<%- include ("partials/header.ejs") %>
+
+<body class="blog-page">
+    <div class="full-article">
+        <div class="full-article__title">
+    <input type="hidden" name="blogId" value="<%=blog.id%>">
+    <h1 class="blog-title"><%= blog.title %></h1>
+    <input type="hidden" name="title" value="<%=blog.title%>">
+    <h2 class="blog-date">Created: <%= blog.date %></h2>
+        </div>
+
+    <!-- To show the blog text in multiple paragraphs -->
+    <div class="full-article__content">
+    <% function formatMessage(message) { %>
+        <%- message.split('\n').map(line => `<p>${line}</p>`).join('') %>
+    <% } %>
+    
+    <%- formatMessage(blog.message) %>
+
+    <input type="hidden" name="message" value="<%=blog.message%>">
+        </div>
+
+    <div class="button-section">
+        <ul class="buttons-list">
+            <li>
+                <a href="/" class="button">Back to Home</a>
+            </li>
+            <li>
+                <a href="/update/<%=blog.id%>" class="button">Update</a>
+            </li>
+            <li>
+            <form method="POST" action="/blog/<%= blog.id %>?_method=DELETE">
+                <button type="submit" class=" button button-delete">Delete</button>
+            </form>
+            </li>
+    </ul>
+    </div>
+</div>
+</body>
+
+<%- include ("partials/footer.ejs") %>
