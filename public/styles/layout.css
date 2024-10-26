@@ -137,10 +137,14 @@ font-weight: bold;
 .blog-form {
   display: flex;
   flex-direction: column;
-  width: 500px;
+  width: 600px;
   margin: auto;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  min-height: 70vh;
+}
+
+.blog-section {
+  margin-top: 40px;
+
 }
 
 label {
@@ -243,8 +247,10 @@ footer {
   .blog-section {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
-
+    gap: 20px;
+    margin: 20px 20px;
   }
 
   .header {
@@ -263,26 +269,21 @@ footer {
     margin-bottom: 40px;
   }
 
-  .blog-section {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 20px 20px;
-  }
-
   .blog-card {
     width: calc(100% - 20px);
     min-width: 300px;
   }
+
   .buttons-list li{
-    display: inline;
-    margin-right: 40px;
-  
+    display: inline-flex;
+    margin-top: 10px;
+     
   }
 
+  .blog-form {
+    width: 400px;
+  }
   .blog-page .button-delete {
     margin-top: 30px;
   }
-  
 }
