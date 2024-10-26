@@ -275,4 +275,13 @@ footer {
     width: calc(100% - 20px);
     min-width: 300px;
   }
+  .buttons-list li{
+    display: inline;
+  
+  }
+
+  .blog-page .button-delete {
+    margin-top: 30px;
+  }
+  
 }
